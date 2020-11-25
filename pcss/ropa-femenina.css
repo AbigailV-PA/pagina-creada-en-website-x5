@@ -1,0 +1,273 @@
+h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 936px;}
+#imCell_1 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 474px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_1 { position: relative; width: 463px; min-height: 468px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_1 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imCellStyle_1 > a { display: block; }
+#imCell_2 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 474px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_2 { position: relative; width: 463px; min-height: 464px; padding: 3px 3px 7px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_2 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imCellStyle_2 > a { display: block; }
+#imCell_3 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 257px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_3 { position: relative; width: 463px; min-height: 199px; padding: 3px 3px 55px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_3 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imTextObject_3 { font-style: normal; font-weight: normal; line-height: 20px;; }
+#imTextObject_3_tab0 ul { list-style: disc; margin: 0 8px; padding: 0px; overflow: hidden; }
+#imTextObject_3_tab0 ul ul { list-style: square; padding: 0 0 0 20px; }
+#imTextObject_3_tab0 ul ul ul { list-style: circle; }
+#imTextObject_3_tab0 ul li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_3_tab0 ol { list-style: decimal; margin: 0px 15px; padding: 0px; }
+#imTextObject_3_tab0 ol ol { list-style: lower-alpha; padding: 0 0 0 20px; }
+#imTextObject_3_tab0 ol li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_3_tab0 blockquote { margin: 0 0 0 15px; padding: 0; border: none; }
+#imTextObject_3_tab0 table { border: none; padding: 0; border-collapse: collapse; }
+#imTextObject_3_tab0 table td { border: 1px solid black; word-wrap: break-word; padding: 4px 3px 4px 3px; margin: 0; vertical-align: middle; }
+#imTextObject_3_tab0 p { margin: 0; padding: 0; }
+#imTextObject_3_tab0 .inline-block { display: inline-block; }
+#imTextObject_3_tab0 sup { vertical-align: super; font-size: smaller; }
+#imTextObject_3_tab0 sub { vertical-align: sub; font-size: smaller; }
+#imTextObject_3_tab0 img { border: none; margin: 0; vertical-align: text-bottom;}
+#imTextObject_3_tab0 .fleft { float: left; vertical-align: baseline;}
+#imTextObject_3_tab0 .fright { float: right; vertical-align: baseline;}
+#imTextObject_3_tab0 img.fleft { margin-right: 15px; }
+#imTextObject_3_tab0 img.fright { margin-left: 15px; }
+#imTextObject_3_tab0 .imUl { text-decoration: underline; }
+#imTextObject_3_tab0 .imVt { vertical-align: top; }
+#imTextObject_3_tab0 .imVc { vertical-align: middle; }
+#imTextObject_3_tab0 .imVb { vertical-align: bottom; }
+#imTextObject_3_tab0 .fs27 { vertical-align: baseline; font-size: 27px; line-height: 33px; }
+#imTextObject_3_tab0 .cf1 { color: rgb(0, 64, 16); }
+#imTextObject_3_tab0 .cb1 { background-color: rgb(255, 255, 255); }
+#imCell_4 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 257px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_4 { position: relative; width: 463px; min-height: 251px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_4 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imTextObject_4 { font-style: normal; font-weight: normal; line-height: 20px;; }
+#imTextObject_4_tab0 ul { list-style: disc; margin: 0 8px; padding: 0px; overflow: hidden; }
+#imTextObject_4_tab0 ul ul { list-style: square; padding: 0 0 0 20px; }
+#imTextObject_4_tab0 ul ul ul { list-style: circle; }
+#imTextObject_4_tab0 ul li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_4_tab0 ol { list-style: decimal; margin: 0px 15px; padding: 0px; }
+#imTextObject_4_tab0 ol ol { list-style: lower-alpha; padding: 0 0 0 20px; }
+#imTextObject_4_tab0 ol li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_4_tab0 blockquote { margin: 0 0 0 15px; padding: 0; border: none; }
+#imTextObject_4_tab0 table { border: none; padding: 0; border-collapse: collapse; }
+#imTextObject_4_tab0 table td { border: 1px solid black; word-wrap: break-word; padding: 4px 3px 4px 3px; margin: 0; vertical-align: middle; }
+#imTextObject_4_tab0 p { margin: 0; padding: 0; }
+#imTextObject_4_tab0 .inline-block { display: inline-block; }
+#imTextObject_4_tab0 sup { vertical-align: super; font-size: smaller; }
+#imTextObject_4_tab0 sub { vertical-align: sub; font-size: smaller; }
+#imTextObject_4_tab0 img { border: none; margin: 0; vertical-align: text-bottom;}
+#imTextObject_4_tab0 .fleft { float: left; vertical-align: baseline;}
+#imTextObject_4_tab0 .fright { float: right; vertical-align: baseline;}
+#imTextObject_4_tab0 img.fleft { margin-right: 15px; }
+#imTextObject_4_tab0 img.fright { margin-left: 15px; }
+#imTextObject_4_tab0 .imUl { text-decoration: underline; }
+#imTextObject_4_tab0 .imVt { vertical-align: top; }
+#imTextObject_4_tab0 .imVc { vertical-align: middle; }
+#imTextObject_4_tab0 .imVb { vertical-align: bottom; }
+#imTextObject_4_tab0 .fs27 { vertical-align: baseline; font-size: 27px; line-height: 33px; }
+#imTextObject_4_tab0 .cf1 { color: rgb(32, 64, 0); }
+#imTextObject_4_tab0 .cb1 { background-color: rgb(255, 255, 255); }
+#imCell_5 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 521px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_5 { position: relative; width: 463px; min-height: 509px; padding: 3px 3px 9px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_5 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imCellStyle_5 > a { display: block; }
+#imCell_6 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 521px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_6 { position: relative; width: 463px; min-height: 515px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_6 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imCellStyle_6 > a { display: block; }
+#imCell_7 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 264px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_7 { position: relative; width: 463px; min-height: 258px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_7 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imTextObject_7 { font-style: normal; font-weight: normal; line-height: 20px;; }
+#imTextObject_7_tab0 ul { list-style: disc; margin: 0 8px; padding: 0px; overflow: hidden; }
+#imTextObject_7_tab0 ul ul { list-style: square; padding: 0 0 0 20px; }
+#imTextObject_7_tab0 ul ul ul { list-style: circle; }
+#imTextObject_7_tab0 ul li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_7_tab0 ol { list-style: decimal; margin: 0px 15px; padding: 0px; }
+#imTextObject_7_tab0 ol ol { list-style: lower-alpha; padding: 0 0 0 20px; }
+#imTextObject_7_tab0 ol li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_7_tab0 blockquote { margin: 0 0 0 15px; padding: 0; border: none; }
+#imTextObject_7_tab0 table { border: none; padding: 0; border-collapse: collapse; }
+#imTextObject_7_tab0 table td { border: 1px solid black; word-wrap: break-word; padding: 4px 3px 4px 3px; margin: 0; vertical-align: middle; }
+#imTextObject_7_tab0 p { margin: 0; padding: 0; }
+#imTextObject_7_tab0 .inline-block { display: inline-block; }
+#imTextObject_7_tab0 sup { vertical-align: super; font-size: smaller; }
+#imTextObject_7_tab0 sub { vertical-align: sub; font-size: smaller; }
+#imTextObject_7_tab0 img { border: none; margin: 0; vertical-align: text-bottom;}
+#imTextObject_7_tab0 .fleft { float: left; vertical-align: baseline;}
+#imTextObject_7_tab0 .fright { float: right; vertical-align: baseline;}
+#imTextObject_7_tab0 img.fleft { margin-right: 15px; }
+#imTextObject_7_tab0 img.fright { margin-left: 15px; }
+#imTextObject_7_tab0 .imUl { text-decoration: underline; }
+#imTextObject_7_tab0 .imVt { vertical-align: top; }
+#imTextObject_7_tab0 .imVc { vertical-align: middle; }
+#imTextObject_7_tab0 .imVb { vertical-align: bottom; }
+#imTextObject_7_tab0 .fs27 { vertical-align: baseline; font-size: 27px; line-height: 33px; }
+#imTextObject_7_tab0 .cf1 { color: rgb(0, 64, 16); }
+#imTextObject_7_tab0 .cb1 { background-color: rgb(255, 255, 255); }
+#imCell_8 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 264px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_8 { position: relative; width: 463px; min-height: 218px; padding: 3px 3px 43px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_8 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imTextObject_8 { font-style: normal; font-weight: normal; line-height: 20px;; }
+#imTextObject_8_tab0 ul { list-style: disc; margin: 0 8px; padding: 0px; overflow: hidden; }
+#imTextObject_8_tab0 ul ul { list-style: square; padding: 0 0 0 20px; }
+#imTextObject_8_tab0 ul ul ul { list-style: circle; }
+#imTextObject_8_tab0 ul li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_8_tab0 ol { list-style: decimal; margin: 0px 15px; padding: 0px; }
+#imTextObject_8_tab0 ol ol { list-style: lower-alpha; padding: 0 0 0 20px; }
+#imTextObject_8_tab0 ol li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_8_tab0 blockquote { margin: 0 0 0 15px; padding: 0; border: none; }
+#imTextObject_8_tab0 table { border: none; padding: 0; border-collapse: collapse; }
+#imTextObject_8_tab0 table td { border: 1px solid black; word-wrap: break-word; padding: 4px 3px 4px 3px; margin: 0; vertical-align: middle; }
+#imTextObject_8_tab0 p { margin: 0; padding: 0; }
+#imTextObject_8_tab0 .inline-block { display: inline-block; }
+#imTextObject_8_tab0 sup { vertical-align: super; font-size: smaller; }
+#imTextObject_8_tab0 sub { vertical-align: sub; font-size: smaller; }
+#imTextObject_8_tab0 img { border: none; margin: 0; vertical-align: text-bottom;}
+#imTextObject_8_tab0 .fleft { float: left; vertical-align: baseline;}
+#imTextObject_8_tab0 .fright { float: right; vertical-align: baseline;}
+#imTextObject_8_tab0 img.fleft { margin-right: 15px; }
+#imTextObject_8_tab0 img.fright { margin-left: 15px; }
+#imTextObject_8_tab0 .imUl { text-decoration: underline; }
+#imTextObject_8_tab0 .imVt { vertical-align: top; }
+#imTextObject_8_tab0 .imVc { vertical-align: middle; }
+#imTextObject_8_tab0 .imVb { vertical-align: bottom; }
+#imTextObject_8_tab0 .fs27 { vertical-align: baseline; font-size: 27px; line-height: 33px; }
+#imTextObject_8_tab0 .cf1 { color: rgb(32, 64, 0); }
+#imTextObject_8_tab0 .cb1 { background-color: rgb(255, 255, 255); }
+#imCell_9 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 535px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_9 { position: relative; width: 463px; min-height: 529px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_9 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imCellStyle_9 > a { display: block; }
+#imCell_10 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 535px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_10 { position: relative; width: 463px; min-height: 463px; padding: 3px 3px 69px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_10 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imCellStyle_10 > a { display: block; }
+#imCell_11 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 204px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_11 { position: relative; width: 463px; min-height: 198px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_11 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imTextObject_11 { font-style: normal; font-weight: normal; line-height: 20px;; }
+#imTextObject_11_tab0 ul { list-style: disc; margin: 0 8px; padding: 0px; overflow: hidden; }
+#imTextObject_11_tab0 ul ul { list-style: square; padding: 0 0 0 20px; }
+#imTextObject_11_tab0 ul ul ul { list-style: circle; }
+#imTextObject_11_tab0 ul li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_11_tab0 ol { list-style: decimal; margin: 0px 15px; padding: 0px; }
+#imTextObject_11_tab0 ol ol { list-style: lower-alpha; padding: 0 0 0 20px; }
+#imTextObject_11_tab0 ol li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_11_tab0 blockquote { margin: 0 0 0 15px; padding: 0; border: none; }
+#imTextObject_11_tab0 table { border: none; padding: 0; border-collapse: collapse; }
+#imTextObject_11_tab0 table td { border: 1px solid black; word-wrap: break-word; padding: 4px 3px 4px 3px; margin: 0; vertical-align: middle; }
+#imTextObject_11_tab0 p { margin: 0; padding: 0; }
+#imTextObject_11_tab0 .inline-block { display: inline-block; }
+#imTextObject_11_tab0 sup { vertical-align: super; font-size: smaller; }
+#imTextObject_11_tab0 sub { vertical-align: sub; font-size: smaller; }
+#imTextObject_11_tab0 img { border: none; margin: 0; vertical-align: text-bottom;}
+#imTextObject_11_tab0 .fleft { float: left; vertical-align: baseline;}
+#imTextObject_11_tab0 .fright { float: right; vertical-align: baseline;}
+#imTextObject_11_tab0 img.fleft { margin-right: 15px; }
+#imTextObject_11_tab0 img.fright { margin-left: 15px; }
+#imTextObject_11_tab0 .imUl { text-decoration: underline; }
+#imTextObject_11_tab0 .imVt { vertical-align: top; }
+#imTextObject_11_tab0 .imVc { vertical-align: middle; }
+#imTextObject_11_tab0 .imVb { vertical-align: bottom; }
+#imTextObject_11_tab0 .fs27 { vertical-align: baseline; font-size: 27px; line-height: 33px; }
+#imTextObject_11_tab0 .cf1 { color: rgb(0, 64, 16); }
+#imTextObject_11_tab0 .cb1 { background-color: rgb(255, 255, 255); }
+#imCell_12 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 204px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_12 { position: relative; width: 463px; min-height: 198px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_12 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imTextObject_12 { font-style: normal; font-weight: normal; line-height: 20px;; }
+#imTextObject_12_tab0 ul { list-style: disc; margin: 0 8px; padding: 0px; overflow: hidden; }
+#imTextObject_12_tab0 ul ul { list-style: square; padding: 0 0 0 20px; }
+#imTextObject_12_tab0 ul ul ul { list-style: circle; }
+#imTextObject_12_tab0 ul li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_12_tab0 ol { list-style: decimal; margin: 0px 15px; padding: 0px; }
+#imTextObject_12_tab0 ol ol { list-style: lower-alpha; padding: 0 0 0 20px; }
+#imTextObject_12_tab0 ol li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_12_tab0 blockquote { margin: 0 0 0 15px; padding: 0; border: none; }
+#imTextObject_12_tab0 table { border: none; padding: 0; border-collapse: collapse; }
+#imTextObject_12_tab0 table td { border: 1px solid black; word-wrap: break-word; padding: 4px 3px 4px 3px; margin: 0; vertical-align: middle; }
+#imTextObject_12_tab0 p { margin: 0; padding: 0; }
+#imTextObject_12_tab0 .inline-block { display: inline-block; }
+#imTextObject_12_tab0 sup { vertical-align: super; font-size: smaller; }
+#imTextObject_12_tab0 sub { vertical-align: sub; font-size: smaller; }
+#imTextObject_12_tab0 img { border: none; margin: 0; vertical-align: text-bottom;}
+#imTextObject_12_tab0 .fleft { float: left; vertical-align: baseline;}
+#imTextObject_12_tab0 .fright { float: right; vertical-align: baseline;}
+#imTextObject_12_tab0 img.fleft { margin-right: 15px; }
+#imTextObject_12_tab0 img.fright { margin-left: 15px; }
+#imTextObject_12_tab0 .imUl { text-decoration: underline; }
+#imTextObject_12_tab0 .imVt { vertical-align: top; }
+#imTextObject_12_tab0 .imVc { vertical-align: middle; }
+#imTextObject_12_tab0 .imVb { vertical-align: bottom; }
+#imTextObject_12_tab0 .fs27 { vertical-align: baseline; font-size: 27px; line-height: 33px; }
+#imTextObject_12_tab0 .cf1 { color: rgb(0, 64, 16); }
+#imTextObject_12_tab0 .cb1 { background-color: rgb(255, 255, 255); }
+#imCell_13 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 547px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_13 { position: relative; width: 463px; min-height: 463px; padding: 3px 3px 81px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_13 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imCellStyle_13 > a { display: block; }
+#imCell_14 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 547px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_14 { position: relative; width: 463px; min-height: 541px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_14 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imCellStyle_14 > a { display: block; }
+#imCell_15 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 145px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_15 { position: relative; width: 463px; min-height: 119px; padding: 3px 3px 23px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_15 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imTextObject_15 { font-style: normal; font-weight: normal; line-height: 20px;; }
+#imTextObject_15_tab0 ul { list-style: disc; margin: 0 8px; padding: 0px; overflow: hidden; }
+#imTextObject_15_tab0 ul ul { list-style: square; padding: 0 0 0 20px; }
+#imTextObject_15_tab0 ul ul ul { list-style: circle; }
+#imTextObject_15_tab0 ul li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_15_tab0 ol { list-style: decimal; margin: 0px 15px; padding: 0px; }
+#imTextObject_15_tab0 ol ol { list-style: lower-alpha; padding: 0 0 0 20px; }
+#imTextObject_15_tab0 ol li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_15_tab0 blockquote { margin: 0 0 0 15px; padding: 0; border: none; }
+#imTextObject_15_tab0 table { border: none; padding: 0; border-collapse: collapse; }
+#imTextObject_15_tab0 table td { border: 1px solid black; word-wrap: break-word; padding: 4px 3px 4px 3px; margin: 0; vertical-align: middle; }
+#imTextObject_15_tab0 p { margin: 0; padding: 0; }
+#imTextObject_15_tab0 .inline-block { display: inline-block; }
+#imTextObject_15_tab0 sup { vertical-align: super; font-size: smaller; }
+#imTextObject_15_tab0 sub { vertical-align: sub; font-size: smaller; }
+#imTextObject_15_tab0 img { border: none; margin: 0; vertical-align: text-bottom;}
+#imTextObject_15_tab0 .fleft { float: left; vertical-align: baseline;}
+#imTextObject_15_tab0 .fright { float: right; vertical-align: baseline;}
+#imTextObject_15_tab0 img.fleft { margin-right: 15px; }
+#imTextObject_15_tab0 img.fright { margin-left: 15px; }
+#imTextObject_15_tab0 .imUl { text-decoration: underline; }
+#imTextObject_15_tab0 .imVt { vertical-align: top; }
+#imTextObject_15_tab0 .imVc { vertical-align: middle; }
+#imTextObject_15_tab0 .imVb { vertical-align: bottom; }
+#imTextObject_15_tab0 .fs27 { vertical-align: baseline; font-size: 27px; line-height: 33px; }
+#imTextObject_15_tab0 .cf1 { color: rgb(0, 64, 16); }
+#imTextObject_15_tab0 .cb1 { background-color: rgb(255, 255, 255); }
+#imCell_16 { display: block; position: relative; overflow: hidden; width: 469px; min-height: 145px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_16 { position: relative; width: 463px; min-height: 139px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_16 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imTextObject_16 { font-style: normal; font-weight: normal; line-height: 20px;; }
+#imTextObject_16_tab0 ul { list-style: disc; margin: 0 8px; padding: 0px; overflow: hidden; }
+#imTextObject_16_tab0 ul ul { list-style: square; padding: 0 0 0 20px; }
+#imTextObject_16_tab0 ul ul ul { list-style: circle; }
+#imTextObject_16_tab0 ul li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_16_tab0 ol { list-style: decimal; margin: 0px 15px; padding: 0px; }
+#imTextObject_16_tab0 ol ol { list-style: lower-alpha; padding: 0 0 0 20px; }
+#imTextObject_16_tab0 ol li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_16_tab0 blockquote { margin: 0 0 0 15px; padding: 0; border: none; }
+#imTextObject_16_tab0 table { border: none; padding: 0; border-collapse: collapse; }
+#imTextObject_16_tab0 table td { border: 1px solid black; word-wrap: break-word; padding: 4px 3px 4px 3px; margin: 0; vertical-align: middle; }
+#imTextObject_16_tab0 p { margin: 0; padding: 0; }
+#imTextObject_16_tab0 .inline-block { display: inline-block; }
+#imTextObject_16_tab0 sup { vertical-align: super; font-size: smaller; }
+#imTextObject_16_tab0 sub { vertical-align: sub; font-size: smaller; }
+#imTextObject_16_tab0 img { border: none; margin: 0; vertical-align: text-bottom;}
+#imTextObject_16_tab0 .fleft { float: left; vertical-align: baseline;}
+#imTextObject_16_tab0 .fright { float: right; vertical-align: baseline;}
+#imTextObject_16_tab0 img.fleft { margin-right: 15px; }
+#imTextObject_16_tab0 img.fright { margin-left: 15px; }
+#imTextObject_16_tab0 .imUl { text-decoration: underline; }
+#imTextObject_16_tab0 .imVt { vertical-align: top; }
+#imTextObject_16_tab0 .imVc { vertical-align: middle; }
+#imTextObject_16_tab0 .imVb { vertical-align: bottom; }
+#imTextObject_16_tab0 .fs27 { vertical-align: baseline; font-size: 27px; line-height: 33px; }
+#imTextObject_16_tab0 .cf1 { color: rgb(0, 64, 16); }
+#imTextObject_16_tab0 .cb1 { background-color: rgb(255, 255, 255); }
